@@ -1,0 +1,53 @@
+footer {
+    display: flex;
+    justify-content: center;
+	bottom: 0;
+    position: absolute;
+    width: 100%;
+	padding-bottom: 5px;
+}
+
+.icone {
+	width: 30px;
+}
+
+.box {
+   display: flex;
+   align-items:center;
+   margin: 10px;
+}
+
+.margin-auto {
+	margin: auto !important;
+}
+
+.float-right {
+	float: right;
+}
+
+nav {
+	padding: 10px;
+}
+
+span {
+	margin-left: 5px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 1em !important;
+	margin-top: 1em !important;
+}
+
+.container {
+	width: 80% !important;
+}
+
+.profil {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    width: 80px;
+	border-radius: 50%;
+}
